@@ -10,22 +10,28 @@
 
 
 사용 예 캡쳐 및 사용 메뉴얼
+
 ![image](https://github.com/user-attachments/assets/53fa9685-8b59-4e4d-9d61-1e752bd815f9)
+
 /src 폴더 내에서 make를 사용하여 컴파일 후 ./server로 서버 실행
 
 ![image](https://github.com/user-attachments/assets/bde843fc-3ef5-49e3-a565-c913099ea665)
+
 같은 위치에서 다른 터미널 2개를 더 사용하여 ./client로 클라이언트 실행 후 사용자 별명 입력
 
 ![image](https://github.com/user-attachments/assets/9cb7d7de-6f67-4c16-a839-1ddca078018a)
+
 서버는 수정 내용을 입력 받으면 다른 클라이언트에게 수정 내용이 있음을 브로드캐스트
 
 ![image](https://github.com/user-attachments/assets/09c6bf9f-8541-4341-a422-952ee13cd807)
 ![image](https://github.com/user-attachments/assets/a39ef47b-9f48-4426-9d68-843f08ccc687)
+
 ‘REQUEST_LOGS’ 명령어를 입력하면 전체 로그 확인 가능
 
  
 
 ![image](https://github.com/user-attachments/assets/a8b707e4-cf4b-4a7a-837c-ce3725d0cce4)
+
 ‘버전관리.txt’ 파일에 클라이언트 요청이 저장되고 있음을 확인
 
 사용된 기술
